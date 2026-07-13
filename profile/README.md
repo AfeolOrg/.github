@@ -1,95 +1,79 @@
 # AFEOL
 
-**AFEOL** is a non-governmental organization focused on education, technology, humanitarian initiatives, open knowledge, and community development.
+Building open-source software, developer tools, and technical standards with a privacy-first approach.
 
-## Mission
+## Principles
 
-Our mission is to empower people through knowledge, innovation, and social responsibility.
+- Open Source
+- Privacy First
+- Simplicity
+- Ownership
+- Long-Term Maintainability
 
-## Areas of Activity
+## Philosophy
 
-- Education and digital literacy
-- Technology and open-source initiatives
-- Humanitarian and community programs
-- Research and innovation
-- Youth empowerment
+Software should be:
 
-## Projects
+- Easy to understand
+- Easy to maintain
+- Free from unnecessary complexity
+- Built to last
 
-- MyTruckDash
-- PrivatniPregled
-- AFEOL Education Initiatives
-- AFEOL Technology Initiatives
-- Open Source Projects
+---
 
-## Technologies
-
-```txt
-Artificial Intelligence
-Software Engineering
-Cloud Technologies
-Cybersecurity
-Open Source
-Education Technology
-```
+**Building software that lasts.**
 
 ## Links
 
-🌐 Website: https://afeol.com
+🌐 Website  
+https://afeol.com
 
-▶️ YouTube:
+▶️ YouTube  
 https://www.youtube.com/@AFEOLOfficial
 
-💻 GitHub:
+💻 GitHub  
 https://github.com/AfeolOrg
 
-📧 Contact:
-support@afeol.com
+📧 Contact  
+afeol@proton.me
 
 ---
 
-# АФЕОЛ
+# AFEOL
 
-**АФЕОЛ** је невладина организација посвећена образовању, технологији, хуманитарним иницијативама, отвореном знању и развоју заједнице.
+Развијамо софтвер отвореног кода, програмерске алате и техничке стандарде са приступом који приватност ставља на прво место.
 
-## Мисија
+## Принципи
 
-Наша мисија је оснаживање људи кроз знање, иновације и друштвену одговорност.
+- Отворен код
+- Приватност на првом месту
+- Једноставност
+- Власништво
+- Дугорочна одрживост
 
-## Области деловања
+## Филозофија
 
-- Образовање и дигитална писменост
-- Технологија и пројекти отвореног кода
-- Хуманитарни и друштвено корисни програми
-- Истраживање и иновације
-- Оснаживање младих
+Верујемо да софтвер треба да буде:
 
-## Пројекти
+- Јасан и лак за разумевање
+- Једноставан за одржавање
+- Без непотребне сложености
+- Направљен да траје
 
-- MyTruckDash
-- PrivatniPregled
-- Образовне иницијативе АФЕОЛ-а
-- Технолошке иницијативе АФЕОЛ-а
-- Пројекти отвореног кода
+---
+
+**Правимо софтвер који траје.**
 
 ## Линкови
 
-🌐 Сајт:
+🌐 Сајт  
 https://afeol.com
 
-▶️ YouTube:
+▶️ YouTube  
 https://www.youtube.com/@AFEOLOfficial
 
-💻 GitHub:
+💻 GitHub  
 https://github.com/AfeolOrg
 
-📧 Контакт:
-support@afeol.com
-
----
-
-## Security
-
-Security-related reports can be sent to:
-
-support@afeol.com
+📧 Контакт  
+afeol@proton.me
